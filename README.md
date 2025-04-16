@@ -15,8 +15,7 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🔗 Live Demo
 
-[Play Simon Game](#)  
-*(Replace `#` with your deployed site link)*
+[Play Simon Game](https://simon-game-six-blush.vercel.app/)
 
 ---
 
